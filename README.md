@@ -1,6 +1,6 @@
 ![MasterHead](https://wallscloud.net/img/resize/1920/1080/MM/2023-03-02-gamer-1-57993.png)
-<h1 align="center">Hi 👋, I'm Vedang Chalke 👨 😊 </h1>
-<h3 align="center">Hello, I'm Vedang Chalke, a Dedicated and Driven Fourth-year Undergraduate in Computer Science ❄. With a profound passion for technology and a relentless curiosity 🌟, I have immersed myself in various areas of technology. If you're seeking a passionate and driven developer who is eager to contribute to cutting-edge projects ✨, I would love to connect! 👏👋 Let's collaborate on creating innovative solutions that push the boundaries of technology and make a positive impact in tech world. 🔰🚀</h3>
+<h1 align="center">Hi 👋, I'm Vedang Chalke 👦🏻 ✌🏻 </h1>
+<h3 align="center">Hello, I'm Vedang Chalke, a Dedicated and Driven Fourth-year Undergraduate in Computer Science ❄. With a profound passion for technology ✈ and a relentless curiosity 🌟, I have immersed myself in various areas of technology 🚀. If you're seeking a passionate and driven developer who is eager to contribute to cutting-edge projects ✨, I would love to connect! 👏👋 Let's collaborate on creating innovative solutions that push the boundaries of technology and make a positive impact in tech world. 🔰🚀</h3>
 <img alt="Coding" width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedangchalke&label=Profile%20views&color=0e75b6&style=flat" alt="vedangchalke" /> </p>
